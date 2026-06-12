@@ -21,8 +21,6 @@ PaperMind is a **Retrieval-Augmented Generation (RAG)** web application that let
 - **Ask the Paper** — Conversational Q&A with source citations and page references
 - **Paper Summary** — Structured breakdown: problem, methodology, findings, contributions, keywords
 - **Quiz Me** — Auto-generated MCQ quiz with 3 difficulty levels and explanations
-- **Multi-Paper Support** — Upload multiple papers and switch between them in the sidebar
-- **Conversation Memory** — Remembers last 4 turns of your chat per paper
 
 ---
 
