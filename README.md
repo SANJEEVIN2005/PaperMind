@@ -1,5 +1,6 @@
 # PaperMind 🧠
 > Chat with research papers using AI. Ask questions, get summaries, and test your understanding — all powered by RAG.
+<img width="1056" height="830" alt="Screenshot 2026-06-12 160455" src="https://github.com/user-attachments/assets/e96c0b05-290a-4288-97c5-a5a9a989fe42" />
 
 ---
 
