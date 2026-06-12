@@ -1,9 +1,13 @@
 # PaperMind 🧠
 > Chat with research papers using AI. Ask questions, get summaries, and test your understanding — all powered by RAG.
-<img width="950" height="500" alt="Screenshot 2026-06-12 160455" src="https://github.com/user-attachments/assets/e96c0b05-290a-4288-97c5-a5a9a989fe42" />
-<img width="950" height="500" alt="Screenshot 2026-06-12 160646" src="https://github.com/user-attachments/assets/0d5b4c5b-8815-41ff-be75-65649b249ece" />
-<img width="950" height="500" alt="Screenshot 2026-06-12 160715" src="https://github.com/user-attachments/assets/e8721bb4-1761-4eaa-811a-bfb939ac220c" />
-<img width="950" height="500" alt="Screenshot 2026-06-12 160820" src="https://github.com/user-attachments/assets/da6bd1b4-dab1-448a-97b7-a4e70b038e5a" />
+
+<img width="1056" height="830" alt="Screenshot 2026-06-12 160455" src="https://github.com/user-attachments/assets/bd76007c-bd61-4eb6-baa0-1218a6940d60" />
+
+<img width="1424" height="851" alt="Screenshot 2026-06-12 160646" src="https://github.com/user-attachments/assets/20ce5889-e475-4570-a4fa-f679c653bbbd" />
+
+<img width="1440" height="864" alt="Screenshot 2026-06-12 160715" src="https://github.com/user-attachments/assets/c11c65ae-449b-45bc-b486-7451e83c51c8" />
+
+<img width="1067" height="841" alt="Screenshot 2026-06-12 160820" src="https://github.com/user-attachments/assets/8372457a-2763-426a-9c7b-9ffd58e6e0a8" />
 
 
 ---
