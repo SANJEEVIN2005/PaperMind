@@ -199,9 +199,7 @@ LLMs are trained on general data and have a knowledge cutoff. They can't answer 
 - How vector similarity search works with FAISS
 - The difference between embedding models and LLMs
 - Why LangChain's memory can cause repeated outputs and how to work around it
-
--
-
+  
 ---
 
 *Built with LangChain, Groq, FAISS, and Flask*
